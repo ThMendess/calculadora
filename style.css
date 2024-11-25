@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(167, 214, 214);
+    text-align: center;
+    font-size: 23px;
+    
+}
+
+#dados{
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-around;
+}
